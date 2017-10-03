@@ -1,0 +1,35 @@
+[
+    {
+        "name": "John David Wilson",
+        "role": "Groom",
+        "seat": 0,            
+        "imageURL": "https://lh4.googleusercontent.com/sVjaBqN2v-2AFncDiznzYZjwPbH-4LnvQd8RCRNK4m-eKRIL_a2MRdNaRK4LJlL80y1g6KoXxtIvG7ijmAdOJmcYziinGgQTuUJl=w1324-h916",
+    },
+    {
+        "name": "Megan Anne-Nichole Mickley",
+        "role": "Bride",
+        "seat": 1,
+        "imageURL": "https://lh4.googleusercontent.com/sVjaBqN2v-2AFncDiznzYZjwPbH-4LnvQd8RCRNK4m-eKRIL_a2MRdNaRK4LJlL80y1g6KoXxtIvG7ijmAdOJmcYziinGgQTuUJl=w1324-h916"
+    },
+
+    {
+        "name": "Michale Bolot",
+        "role": "Best Man",
+        "seat": 2,
+        "imageURL": "https://lh4.googleusercontent.com/sVjaBqN2v-2AFncDiznzYZjwPbH-4LnvQd8RCRNK4m-eKRIL_a2MRdNaRK4LJlL80y1g6KoXxtIvG7ijmAdOJmcYziinGgQTuUJl=w1324-h916"
+    },
+
+    {
+        "name": "Katy",
+        "role": "Maid of Honor",
+        "seat": 3,
+        "imageURL": "https://lh4.googleusercontent.com/sVjaBqN2v-2AFncDiznzYZjwPbH-4LnvQd8RCRNK4m-eKRIL_a2MRdNaRK4LJlL80y1g6KoXxtIvG7ijmAdOJmcYziinGgQTuUJl=w1324-h916"
+    },
+
+    {
+        "name": "NAME",
+        "role": "Bartender",
+        "seat": 4,
+        "imageURL": "https://lh4.googleusercontent.com/sVjaBqN2v-2AFncDiznzYZjwPbH-4LnvQd8RCRNK4m-eKRIL_a2MRdNaRK4LJlL80y1g6KoXxtIvG7ijmAdOJmcYziinGgQTuUJl=w1324-h916"
+    }
+]
