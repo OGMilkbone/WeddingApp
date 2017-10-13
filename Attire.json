@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Men",
+        "context": "Casual, Oxford and khakis",
+        "imageURL": "https://github.com/OGMilkbone/WeddingApp/blob/master/Male.jpg?raw=true"
+    },
+
+    {
+        "name": "Women",
+        "context": "Casual, sun-dress",
+        "imageURL": "https://github.com/OGMilkbone/WeddingApp/blob/master/Female.jpg?raw=true"
+    }
+]
