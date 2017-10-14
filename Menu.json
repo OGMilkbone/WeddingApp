@@ -10,7 +10,7 @@
         "name": "Registry",
         "switch": 1,
         "context": "We aren't opposed to cash...",
-        "imageURL": "https://github.com/OGMilkbone/WeddingApp/blob/master/Registry.jpg?raw=true"
+        "imageURL": "https://github.com/OGMilkbone/WeddingApp/blob/master/Registry.jpg?raw=true",
         "originalURL": "https://www.amazon.com/wedding/megan-mickley-john-wilson-scottsdale-june-2018/registry/CUMEVAPB9W33"
     },
 
@@ -18,7 +18,7 @@
         "name": "Wedding Party",
         "switch": 2,
         "context": "Who's Who?",
-        "imageURL": "https://github.com/OGMilkbone/WeddingApp/blob/master/party.jpg?raw=true"
+        "imageURL": "https://github.com/OGMilkbone/WeddingApp/blob/master/party.jpg?raw=true",
         "originalURL": "https://raw.githubusercontent.com/OGMilkbone/WeddingApp/master/WeddingParty.json"
     },
 
@@ -26,7 +26,7 @@
         "name": "Location",
         "switch": 3,
         "context": "St.Rose Church, Anthem AZ"
-        "imageURL": "https://github.com/OGMilkbone/WeddingApp/blob/master/Church.jpg?raw=true"
+        "imageURL": "https://github.com/OGMilkbone/WeddingApp/blob/master/Church.jpg?raw=true",
         "originalURL": "https://www.amazon.com/wedding/megan-mickley-john-wilson-scottsdale-june-2018/registry/CUMEVAPB9W33"
     },
 
@@ -34,7 +34,7 @@
         "name": "Meal",
         "switch": 4,
         "context": "Tex-Mex Nacho Bar",
-        "imageURL": "https://github.com/OGMilkbone/WeddingApp/blob/master/Food.jpg?raw=true"
+        "imageURL": "https://github.com/OGMilkbone/WeddingApp/blob/master/Food.jpg?raw=true",
         "originalURL": "https://www.amazon.com/wedding/megan-mickley-john-wilson-scottsdale-june-2018/registry/CUMEVAPB9W33"
     },
 
@@ -42,7 +42,7 @@
         "name": "Attire",
         "switch": 5,
         "context": "Men, Women",
-        "imageURL": "https://github.com/OGMilkbone/WeddingApp/blob/master/Casual.jpg?raw=true"
+        "imageURL": "https://github.com/OGMilkbone/WeddingApp/blob/master/Casual.jpg?raw=true",
         "originalURL": "https://raw.githubusercontent.com/OGMilkbone/WeddingApp/master/Attire.json",
     }
 ]
