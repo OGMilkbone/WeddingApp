@@ -31,7 +31,7 @@
     },
 
     {
-        "name": "Meal",
+        "name": "Food",
         "switchboard": 4,
         "context": "Tex-Mex Nacho Bar",
         "imageURL": "https://github.com/OGMilkbone/WeddingApp/blob/master/Food.jpg?raw=true",
